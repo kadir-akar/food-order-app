@@ -2,6 +2,9 @@
 
 This project is a clone project of Maximilian Schwarzmüller's course "React - The Complete Guide (incl Hooks, React Router, Redux)" that allows users to add items to a cart, adjust the quantity of items in the cart, and remove items from the cart.
 
+## Demo
+![food-order](https://user-images.githubusercontent.com/73611059/229386674-ed69eee5-15c0-4ed6-98e2-58a05b235b22.gif)
+
 ## Installation
 
 Clone this repository to your local machine.
